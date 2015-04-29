@@ -1,0 +1,1 @@
+	<!-- Button example -->\n	<form action=\"/\" method=\"POST\">\n		<input type=\"text\">\n		<input type=\"submit\" id=\"SUBMIT\" />\n	</form>
