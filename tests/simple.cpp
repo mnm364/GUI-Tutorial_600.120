@@ -8,7 +8,7 @@ int main() {
 	myfile.open("templates/out.html", std::ios::trunc);
 
 	myfile << "<p> input number </p>\n";
-	myfile << "	<!-- Button example -->\n	<form action=\"/\" method=\"POST\">\n		<input type=\"text\">\n		<input type=\"submit\" id=\"SUBMIT\" />\n	</form>" << std::endl;
+	myfile << "	<!-- Button example -->\n	<form action=\"/\" method=\"POST\">\n		<input type=\"text\" name=\" \" value=\"\">	<input type=\"submit\" id=\"SUBMIT\" />\n	</form>" << std::endl;
 	std::cout << "input number greater than 3 to show output" << std::endl;
 	// close file to update to out.html
 	myfile.close();
