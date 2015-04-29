@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/* styles of example table */
+.table_div {
+	position:relative;
+	left:75px;
+	color:#66B9FD;
+}
+.table_div table {
+	border-spacing:10px 10px;
+	color:red;
+	border-width:2;
+}
+
+.table_div td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: dashed;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+
+#table01 {
+	color:black;
+}
