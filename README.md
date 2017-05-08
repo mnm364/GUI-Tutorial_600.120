@@ -1,9 +1,6 @@
 # GUI-Tutorial_600.120
 Tutorial for web-based GUI for 600.120 class presentation
 
-
-<h1>GUI Tutorial</h1>
-
 For those of you working on the GUI extra credit, here's a written up version of what I covered in the tutorial session.
 All instructions are designed to be run on the ugrad servers.
  
